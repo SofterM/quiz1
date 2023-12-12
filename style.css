@@ -1,0 +1,47 @@
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .header {
+    background-color: #e49e9e;
+    padding: 30px;
+    text-align: center;
+
+  }
+  
+  .double {
+    border-style: double;
+    padding: 15px;
+    background-color: aquamarine;
+}
+  .row {
+    display: -webkit-flex;
+    display: flex;
+  }
+  
+  
+  .column {
+    padding: 10px;
+    height: 500px;
+  }
+  
+
+  .column.side {
+    width: 15%;
+    padding: 0;
+  }
+  
+
+  .column.middle {
+    width: 65%;
+  }
+  
+  .footer {
+    background-color: #a4ffa4;
+    padding: 5px;
+    text-align: center;
+  }
+  
